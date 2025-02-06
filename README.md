@@ -1,4 +1,3 @@
-![VirtualBox_ Alvita revina_06_02_2025_09_18_42](https://github.com/user-attachments/assets/2395a139-a83c-4b89-9a33-d0c429494f99)## Linux command
 
 ## 1. Pwd
 ![image](https://github.com/user-attachments/assets/fa3af5ea-e46b-47f7-be06-a0ce57758b20)
