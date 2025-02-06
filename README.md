@@ -1,3 +1,5 @@
+## Alvita Revina
+## 09030282327008
 
 ## 1. Pwd
 ![image](https://github.com/user-attachments/assets/fa3af5ea-e46b-47f7-be06-a0ce57758b20)
