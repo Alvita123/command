@@ -119,6 +119,42 @@ fungsi: menampilkan daftar semua proses yang sedang berjalan di sistem Linux
 ## 40. exit
 ![image](https://github.com/user-attachments/assets/bae5253b-ce8f-450a-8125-2baf8cbcfd27)
 fungsi: untuk keluar dari shell atau  terminal
+## 41. du
+![image](https://github.com/user-attachments/assets/a6f5ef21-6b76-498d-b484-027f8725d71e)
+fungsi: Memeriksa penggunaan penyimpanan file atau direktori
+## 42. awk
+![image](https://github.com/user-attachments/assets/47379721-be83-4d5f-8494-ef2f59d9f443)
+fungsi: Menemukan dan memanipulasi pola dalam file
+## 43. sed
+![image](https://github.com/user-attachments/assets/abb10b4b-20df-4652-8803-25805920187e)
+fungsi: Menemukan, mengganti, atau menghapus pola dalam file
+## 44. zip
+![image](https://github.com/user-attachments/assets/ea9c6561-1ca4-4ee9-b2f9-de0b99d078c1)
+fungsi: mengompresi file atau direktori menjadi arsip ZIP di Linux.
+## 45. unzip
+![image](https://github.com/user-attachments/assets/5a824828-fe08-4537-8f51-a7281d59a266)
+fungsi: mengekstrak file dari arsip ZIP di sistem Linux.
+## 46. top
+![image](https://github.com/user-attachments/assets/d06ad2e9-3d69-48de-bdc8-c8a3fead85b8)
+fungsi: Menampilkan proses yang berjalan dan penggunaan resource sistem
+## 47. mount
+![image](https://github.com/user-attachments/assets/9fb7895c-07bc-4d6b-852c-d5c4f83199dc)
+fungsi:memasang sistem file atau partisi ke direktori tertentu dalam sistem Linux.
+## 48. ufw
+![image](https://github.com/user-attachments/assets/e6e1d7cb-aae8-4f4b-a605-1b4a9e46fcc4)
+fungsi: memasang sistem file atau partisi ke direktori tertentu dalam sistem Linux.
+## 49. export
+![image](https://github.com/user-attachments/assets/687cc8ef-4fc9-4790-8c09-77608d336472)
+fungsi:mendeklarasikan variabel lingkungan (environment variables) di Linux dan membagikannya ke proses-proses yang dijalankan di dalam shell atau sub-shell.
+## 50. clear
+![image](https://github.com/user-attachments/assets/6fbb522e-59c4-4b85-860a-15488cd0e484)
+fungsi: membersihkan layar terminal. 
+
+
+
+
+
+
 
 
 
